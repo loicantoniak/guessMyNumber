@@ -8,10 +8,12 @@ Projet réalisé dans le cadre d'une formation sur Udemy : [The Complete JavaScr
 
 L'objectif de ce projet est : **Utilisation du DOM - création de différents EventListener.**
 
+Démo live : https://loicantoniak.github.io/guessMyNumber/
+
 ## Fabriqué avec
 
 - [HTML - CSS - Javascript] - Langages (front-end)
-- [VSCode](https://code.visualstudio.com/) - Editeur de textes
+- [Visual Studio Code](https://code.visualstudio.com/) - Editeur de textes
 
 ## Auteurs
 
